@@ -18,6 +18,7 @@ the main workflow is usually like this:
 8. to save the changes you have made and the files you have added, use the command `git commit -m "fill in your update here"` to commit your changes and save them with a useful message
 9. when you are ready to update the centralized repository on github with your changed localized cloned repository, use the command `git push` and you should see your changes show up on github
 
+
 ## Really good tutorials on how git works
 
 http://rogerdudler.github.io/git-guide/
